@@ -16,7 +16,7 @@ This Java application is a simple quiz game with a graphical user interface (GUI
 - **Answer Submission:** Allow users to select an option and submit their answer within the given time.
 - **Score Calculation:** Keep track of the user's score based on correct answers.
 - **Result Screen:** Display the final score and a summary of correct/incorrect answers.
-- 
+ 
 # Requirements
 - Java Development Kit (JDK) installed on your machine
 - Basic knowledge of Java programming
